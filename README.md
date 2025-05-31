@@ -136,7 +136,7 @@ print(classification_report(y_test, y_pred))
 ## 👨‍💻 Author
 
 **Muhammed Shabnas P A**  
-📧 YourEmail@example.com  
+📧 muhammedshabnaspa@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/muhammed-shabnas-pa/)  
 🌐 [GitHub](https://github.com/Muhammed-Shabnas-PA)
 
